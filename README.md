@@ -1,6 +1,6 @@
 # Snake Game written in C
 
-![Build](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/actions/workflows/build.yml/badge.svg)
+![Build](https://github.com/chasewright12/snake-game-written-in-c/actions/workflows/build.yml/badge.svg)
 
 Snake game for the terminal, written in pure C with the [ncurses](https://invisible-island.net/ncurses/) library. Everything lives in a single file: `snake.c`.
 
