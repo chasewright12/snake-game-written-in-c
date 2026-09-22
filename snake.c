@@ -88,7 +88,7 @@ static void draw(void)
         mvaddch(snake[i].y + 1, snake[i].x * 2 + 1, i == 0 ? 'O' : 'o');
     }
 
-    mvprintw(HEIGHT + 2, 0, "Score: %d   (arrows/WASD move, q/Q quits)", score);
+    mvprintw(HEIGHT + 2, 0, "Score: %d   (arrows/WASD move, q/quit)", score);
     refresh();
 }
 
